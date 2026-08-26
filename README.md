@@ -2,10 +2,6 @@
 
 A modern, responsive restaurant website designed for **Delicia**, a multi-cuisine dining restaurant. The website provides an elegant digital dining experience where visitors can explore the restaurant, browse menu items, discover today's specials, view customer reviews, join the loyalty program, submit feedback, and find restaurant contact information.
 
-## 🌐 Live Preview
-
-> Add your deployed website URL here.
-
 ## 📸 Website Preview
 
 ![Delicia Multi-Cuisine Restaurant](Delicia-Multi-Cuisine-Restaurant.png)
