@@ -205,8 +205,7 @@ The current version focuses on the restaurant's frontend experience. Backend fun
 
 **Gonela Surya Teja**
 
-B.Tech — Computer Science and Engineering
-
+B.Tech Computer Science & Engineering — SRM IST
 ---
 
 ## 📄 License
